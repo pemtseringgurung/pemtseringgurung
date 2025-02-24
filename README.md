@@ -7,10 +7,10 @@ My name is Pem Tsering Gurung. I am currently a Junior at the College of Wooster
 #### 🌐 Connect With Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/pemgurung/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" height="30" style="margin-right: 10px;"/>
   </a>
   <a href="mailto:pemgurung541@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" alt="Gmail" height="30" style="margin-right: 10px;"/>
   </a>
 </p>
 
