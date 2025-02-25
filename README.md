@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!👋
 
 My name is Pem Tsering Gurung. I am currently a Junior at the College of Wooster and I am an aspiring Full-Stack Software Engineer! I have a passion for building web applications and exploring new technologies.
 ### 🌟 Notable Projects
