@@ -1,4 +1,4 @@
-### hi, i'm pem tsering gurung 👋
+### hi, i'm pem tsering gurung!
 
 ```json
 {
